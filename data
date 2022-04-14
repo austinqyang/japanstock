@@ -1,0 +1,4 @@
+import pandas as pd
+import numpy as np
+
+stock_stats = pd.read_csv("/Users/yang/Documents/japan stock/jpx-tokyo-stock-exchange-prediction/train_files/stock_prices.csv")
